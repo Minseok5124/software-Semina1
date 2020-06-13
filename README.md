@@ -17,6 +17,11 @@
 4. Study programming language like [GO](https://golang.org/), [Kotlin](https://kotlinlang.org/)    
 
 ### My Major Info
+
 |:Grade:|:Credit:|:GPA:|
 |1|20|3.86|
 |2|22|4.29|
+
+
+|te|s|t|
+|?|??|???|
