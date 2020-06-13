@@ -1,7 +1,7 @@
 ### *** I wanna be a game programmer as a VR / AR also 3D games ***
 - - -
 
-*Intentionally erased img. Maybe it will be replaced with my picture.*
+*Intentionally erased img. Maybe it will be replaced with my picture.*   
 ![Error : Cannot load img]()
 
 
