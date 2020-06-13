@@ -1,14 +1,13 @@
 ### *** I wanna be a game programmer as a VR / AR also 3D games ***
 - - -
 
-*Intentionally erased img. Maybe it will be replaced with my picture.*   
+<span style="color:gray">*Intentionally erased img. Maybe it will be replaced with my picture.*</span>   
 ![Error : Cannot load img]()
 
 
 > Grade : 2   
 > Name : Kim Min-seok    
-> Major : Software - Contents IT
-
+> Major : Software - Contents IT    
 - - -
 
 ### interests
