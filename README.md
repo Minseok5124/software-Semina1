@@ -1,5 +1,3 @@
-# software-Semina1
-
 ### ***Software Semina 1 - class 1***
 - - -
 
