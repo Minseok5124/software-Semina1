@@ -1,7 +1,8 @@
 ### ***I wanna be a game programmer as a VR / AR also 3D games***
 - - -
 
-<span style="color:red; font-style:italic">Intentionally erased img. Maybe it will be replaced with my picture.</span>
+<span style="color:red; font-style:italic">Intentionally erased img.</span>
+
 ![Error : Cannot load img]()
 
 
