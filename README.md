@@ -14,4 +14,9 @@
 1. Game (Unity, Unreal, Map design, Level design, ~~Play~~, Engines)  
 2. Bot Programming (Discord, Kakao talk, etc)
 3. Make a site by HTML, CSS, JS
-4. Study programming language like [GO](https://golang.org/), [Kotlin](https://kotlinlang.org/) 
+4. Study programming language like [GO](https://golang.org/), [Kotlin](https://kotlinlang.org/)    
+
+### My Major Info
+|:Grade:|:Credit:|:GPA:|
+|1|20|3.86|
+|2|22|4.29|
