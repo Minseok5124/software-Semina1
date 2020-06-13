@@ -15,6 +15,7 @@
 2. Bot Programming (Discord, Kakao talk, etc)
 3. Make a site by HTML, CSS, JS
 4. Study programming language like [GO](https://golang.org/), [Kotlin](https://kotlinlang.org/)    
+- - -
 
 ### My Major Info
 
